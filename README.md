@@ -1,4 +1,3 @@
-##
 
 This project contains 4 available pages:
 
@@ -10,7 +9,8 @@ The last one can be visited only after authorisation at `Login page`.
 
 Moreover user have a possibility to `log out` after authorisation by using `Выйти` button at page footer.
 
-## Available Scripts
+##
+### Available Scripts
 
 In the project directory, you can run:
 
