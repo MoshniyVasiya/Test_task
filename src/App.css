@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:400,700&display=swap&subset=cyrillic');
+* { 
+  box-sizing: border-box;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.test{  
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #282c34;
+  font-size: 20px;
+  color: white;
+  line-height: 50px;
+  padding: 5px 15%;
+}
+.nav-links { 
+  margin: 0;
+  list-style-type: none;
+}
+li {  
+  margin-right: 15px;
+}
+.items-positioning {  
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.wrapper {  
+  flex: 1;
+  padding: 0 15%;
+}
+.bottom {  
+  flex-shrink: 0;
+  justify-content: center;
+}
+.form-field { 
+  flex-direction: column;
+}
+.form-items { 
+  margin-top: 25px;
+  text-align: center;
+  font-weight: 700;
+}
+.form-input { 
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.form-button {  
+ width: 100px;
+ height: 30px;
+ border-radius: 10px;
+ border: 1px solid #fff;
+ background-color: #282c34;
+ color: #fff;
+ font-size: 20px;
+}
+.wrong-credentials {  
+  margin-top: 20px;
+  font-weight: 700;
+  color: red;
+}
+.App-logo {  
+width: 50px;
+height: 50px;
+}
