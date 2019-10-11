@@ -25,6 +25,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+##
+
 This project contains 4 available pages:
 
 ### `Home page`
