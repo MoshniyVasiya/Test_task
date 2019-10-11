@@ -1,5 +1,5 @@
 
-This project contains 4 available pages:
+### This project contains 4 available pages:
 
 ### `Home page`
 ### `News page`
