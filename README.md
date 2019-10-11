@@ -29,6 +29,6 @@ This project contains ##4 available pages:
 
 ### `Home page`
 ### `News page`
-### `Profile` page which can be visited only after authorisation at ### `Login page`.
+### `Profile page`  which can be visited only after authorisation at `Login page`.
 
 Moreover user have a possibility to `log out` after authorisation by using `Выйти` button at page footer.
