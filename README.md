@@ -1,3 +1,15 @@
+##
+
+This project contains 4 available pages:
+
+### `Home page`
+### `News page`
+### `Profile page`  
+
+The last one can be visited only after authorisation at `Login page`.
+
+Moreover user have a possibility to `log out` after authorisation by using `Выйти` button at page footer.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -25,14 +37,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-##
 
-This project contains 4 available pages:
-
-### `Home page`
-### `News page`
-### `Profile page`  
-
-The last one can be visited only after authorisation at `Login page`.
-
-Moreover user have a possibility to `log out` after authorisation by using `Выйти` button at page footer.
